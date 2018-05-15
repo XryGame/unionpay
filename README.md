@@ -1,2 +1,2 @@
 # unionpay
-银联云闪付sdk
+银联控件支付sdk
